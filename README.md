@@ -1,1 +1,1 @@
-# python_basics
+# Every basics of python example with comment is available.
